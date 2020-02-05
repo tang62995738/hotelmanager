@@ -12,9 +12,4 @@ public class hoteltest {
     RoomMapper roomMapper =SqlSession.getMapper(RoomMapper.class);
     roomMapper.findTypes().forEach(roomsTyte-> System.out.println(roomsTyte));
 }
-    public void testFind1() {
-    }
-    public void testFind12() {
-    }
-
 }
