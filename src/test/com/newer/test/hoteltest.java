@@ -14,5 +14,7 @@ public class hoteltest {
 }
     public void testFind1() {
     }
+    public void testFind12() {
+    }
 
 }
